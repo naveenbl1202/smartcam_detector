@@ -9,7 +9,7 @@ där analysen sker på själva enheten i realtid.
 
 ## 📸 Demo
 
-![Demo – objektdetektion](demo.jpg)
+![Demo – objektdetektion](demo.png)
 
 ## ✨ Funktioner
 - Hittar och ritar rutor runt objekt i en bild (personer, bilar, cyklar m.m.)
